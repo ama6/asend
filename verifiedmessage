@@ -334,7 +334,7 @@ options.quoted = {
 
         participant: "0@s.whatsapp.net",
 
-        remoteJid: "amar@broadcast"
+        remoteJid: "status@broadcast"
 
       },
 
