@@ -322,7 +322,7 @@ Shadow.addCommand(
 
       return await message.sendMessage("*Reply to a Message*");
 
-    const buff = await getBuffer(afmsend)
+    const buff = await getBuffer(asend)
 
     let options = {}
 
